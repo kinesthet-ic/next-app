@@ -16,7 +16,7 @@ export default function Home() {
     main >
     <
     h1 className = "title" >
-    Welcome to < a href = "https://nextjs.org" > !!!!!! < /a> < /
+    ウェルカム トゥー < a href = "https://nextjs.org" > !!!!!! < /a> < /
     h1 >
 
     <
